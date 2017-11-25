@@ -1,0 +1,80 @@
+.container{
+    text-align: center;
+    margin: 
+}
+.container .wrapper{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    width: 20%;
+    display: inline-block;
+    margin: 20px 1%;
+    vertical-align: top;
+    height: 47%;
+    padding: 1% 2%;
+}
+.container .wrapper img{
+    height: 70px;
+    width: 70px;
+    padding-bottom: 30px;
+}
+.wrapper h2{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    color: darkgray;
+}
+.wrapper h3{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 50px;
+    color: lightgrey;
+    height: 100px;
+}
+.kagalvoja{
+    font-size: 30px;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 100;
+}
+.nigga img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+.nigga{
+    text-align: center;
+}
+.niggaaprasymas{
+    color: lightgrey;
+    text-align: center;
+}
+.palinkejimas{
+    text-align: center;
+    font-weight: 200;
+}
+.circles{
+    text-align: center;
+}
+.rutuliukai{
+    border: 1px solid lightblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 4px 1%;
+    background-color: lightblue;
+    height: 6px;
+    width: 6px;
+}
+.baltas{
+    border: 1px solid lightblue;
+    border-radius: 50%;
+    margin: 4px 1%;
+    color: white;
+    display: inline-block;
+    background-color: white;
+     height: 6px;
+    width: 6px;
+}
+body{
+        font-family: "Oswald", sans-serif;
+}
